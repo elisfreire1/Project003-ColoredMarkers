@@ -1,5 +1,6 @@
 h1 {
     text-align: center;
+    background-color: rgb(0, 255, 255);
 }
 .marker{
     /* background-color: red; */
@@ -12,21 +13,24 @@ h1 {
     /* background-color: rgb(255, 0, 0); /*Primary color*/
     /* background-color: rgb(255, 255, 0); /*Secondary color*/
     /* background-color: rgb(255, 127, 0); /*Tertiany color: orange*/
-    background-color: rgb(127, 255, 0); /*Tertiany color: charreuse gree*/
+    /* background-color: rgb(127, 255, 0); /*Tertiany color: charreuse gree*/
+    background-color: rgb(0, 0, 0); /**/
 }
 .two{
     /* background-color: green; */
     /* background-color: rgb(0, 255, 0); /*Primary color*/
     /* background-color: rgb(0, 255, 255); /*Seconday color*/
     /* background-color: rgb(0, 255, 127); /*Tertiany color: green*/
-    background-color: rgb(0, 127, 255); /*Tertiany color: azure*/
+    /* background-color: rgb(0, 127, 255); /*Tertiany color: azure*/
+    background-color: rgb(0, 0, 0); /*...*/
 }
 .three{
     /* background-color: blue; */
     /* background-color: rgb(0, 0, 255); /*Primary color*/
     /* background-color: rgb(255, 0, 255); /*Secondary color*/
     /* background-color: rgb(127, 0, 255); /*Tertiany color: violet*/
-    background-color: rgb(255, 0, 127); /*Tertiany color: rose*/
+    /* background-color: rgb(255, 0, 127); /*Tertiany color: rose*/
+    background-color: rgb(0, 0, 0); /*...*/
 }
 
 .container {
