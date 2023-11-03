@@ -10,17 +10,23 @@ h1 {
 .one {
     /* background-color: red; */
     /* background-color: rgb(255, 0, 0); /*Primary color*/
-    background-color: rgb(255, 255, 0); /*Secondary color*/
+    /* background-color: rgb(255, 255, 0); /*Secondary color*/
+    /* background-color: rgb(255, 127, 0); /*Tertiany color: orange*/
+    background-color: rgb(127, 255, 0); /*Tertiany color: charreuse gree*/
 }
 .two{
     /* background-color: green; */
     /* background-color: rgb(0, 255, 0); /*Primary color*/
-    background-color: rgb(0, 255, 255); /*Seconday color*/
+    /* background-color: rgb(0, 255, 255); /*Seconday color*/
+    /* background-color: rgb(0, 255, 127); /*Tertiany color: green*/
+    background-color: rgb(0, 127, 255); /*Tertiany color: azure*/
 }
 .three{
     /* background-color: blue; */
     /* background-color: rgb(0, 0, 255); /*Primary color*/
-    background-color: rgb(255, 0, 255); /*Secondary color*/
+    /* background-color: rgb(255, 0, 255); /*Secondary color*/
+    /* background-color: rgb(127, 0, 255); /*Tertiany color: violet*/
+    background-color: rgb(255, 0, 127); /*Tertiany color: rose*/
 }
 
 .container {
