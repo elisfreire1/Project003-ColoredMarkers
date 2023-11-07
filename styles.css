@@ -22,7 +22,8 @@ h1 {
     /* background-color: rgb(0, 255, 255); /*Seconday color*/
     /* background-color: rgb(0, 255, 127); /*Tertiany color: green*/
     /* background-color: rgb(0, 127, 255); /*Tertiany color: azure*/
-    background-color: rgb(0, 0, 0); /*...*/
+    /* background-color: rgb(0, 0, 0); /*...*/
+    background-color: #007F00; /* hexadecimal ou hex values*/
 }
 .blue{
     /* background-color: blue; */
@@ -30,7 +31,8 @@ h1 {
     /* background-color: rgb(255, 0, 255); /*Secondary color*/
     /* background-color: rgb(127, 0, 255); /*Tertiany color: violet*/
     /* background-color: rgb(255, 0, 127); /*Tertiany color: rose*/
-    background-color: rgb(0, 0, 0); /*...*/
+    /* background-color: rgb(0, 0, 0); /*...*/
+    background-color: hsl(240, 100%, 50%); /* HSL color model = Hue (0 a 360), Saturation (0% a 100%) and Lightness (0% a 100%)*/
 }
 
 .container {
