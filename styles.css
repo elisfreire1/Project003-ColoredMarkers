@@ -14,7 +14,8 @@ h1 {
     /* background-color: rgb(255, 255, 0); /*Secondary color*/
     /* background-color: rgb(255, 127, 0); /*Tertiany color: orange*/
     /* background-color: rgb(127, 255, 0); /*Tertiany color: charreuse gree*/
-    background-color: rgb(255, 0, 0); /**/
+    /* background-color: rgb(255, 0, 0); /*Changed to background to apply linear-gradient function*/
+    background: linear-gradient(90deg, rgb(122, 74, 14) 0%, rgb(245, 65, 113) 50%, rgb(162, 27, 27) 100%) ;
 }
 .green{
     /* background-color: green; */
