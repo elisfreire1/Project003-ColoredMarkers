@@ -15,7 +15,8 @@ h1 {
     /* background-color: rgb(255, 127, 0); /*Tertiany color: orange*/
     /* background-color: rgb(127, 255, 0); /*Tertiany color: charreuse gree*/
     /* background-color: rgb(255, 0, 0); /*Changed to background to apply linear-gradient function*/
-    background: linear-gradient(90deg, rgb(122, 74, 14) 0%, rgb(245, 65, 113) 50%, rgb(162, 27, 27) 100%) ;
+    /*background: linear-gradient(180deg, rgb(122, 74, 14) 0%, rgb(245, 65, 113) 50%, rgb(162, 27, 27) 100%) ;*/
+    background: linear-gradient(rgb(122, 74, 14), rgb(245, 65, 113), rgb(162, 27, 27)); /*Clean up the code*/
 }
 .green{
     /* background-color: green; */
@@ -24,7 +25,8 @@ h1 {
     /* background-color: rgb(0, 255, 127); /*Tertiany color: green*/
     /* background-color: rgb(0, 127, 255); /*Tertiany color: azure*/
     /* background-color: rgb(0, 0, 0); /*...*/
-    background-color: #007F00; /* hexadecimal ou hex values*/
+    /* background-color: #007F00; /* hexadecimal ou hex values. Depois /*Changed to background to apply linear-gradient function*/
+    background: linear-gradient(#55680D, #71F53E, #116C31);
 }
 .blue{
     /* background-color: blue; */
@@ -33,7 +35,8 @@ h1 {
     /* background-color: rgb(127, 0, 255); /*Tertiany color: violet*/
     /* background-color: rgb(255, 0, 127); /*Tertiany color: rose*/
     /* background-color: rgb(0, 0, 0); /*...*/
-    background-color: hsl(240, 100%, 50%); /* HSL color model = Hue (0 a 360), Saturation (0% a 100%) and Lightness (0% a 100%)*/
+    /*background-color: hsl(240, 100%, 50%); /* HSL color model = Hue (0 a 360), Saturation (0% a 100%) and Lightness (0% a 100%)*/
+    background: linear-gradient(hsl (186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%)); /*To applay linear-gradient*/
 }
 
 .container {
