@@ -38,6 +38,26 @@ h1 {
     /*background-color: hsl(240, 100%, 50%); /* HSL color model = Hue (0 a 360), Saturation (0% a 100%) and Lightness (0% a 100%)*/
     background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%)); /*To applay linear-gradient*/
 }
+.cap{
+    width: 60px;
+    height: 25px;
+}
+
+.sleeve {
+    width: 110px;
+    height: 25px;
+    /* background-color: white;
+    opacity: 0.5; /*Removing and put it with alpha channel*/
+    background-color: rgba(255,255, 255, 0.5);
+    /*border-left-width: 10px;
+    border-left-style: solid;
+    border-left-color: black;*/
+    border-left: 10px double rgba(0,0,0,75%); /*shortend property it's better: more readble*/
+}
+
+.cap, .sleeve{
+    display: inline-block;
+}
 
 .container {
     background-color: rgb(255, 255, 255);
